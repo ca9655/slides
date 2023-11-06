@@ -30,10 +30,16 @@ iframe{
 .title{
     font-size: 4vh;
     text-align: center;
+    padding-top: 15vh; /* 此數值為Navbar高度 */    
+    margin-top: -15vh;
 }
 
 @media screen and (max-width: 1024px){
     .title{
       text-align: left;
     }
-  }
+}
+
+@media screen and (max-width: 768px) {
+    
+}
