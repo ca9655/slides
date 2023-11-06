@@ -1,1 +1,1 @@
-https://github.com/ca9655/slides/main/html/index.html
+https://ca9655.github.io/slides/html/index.html
